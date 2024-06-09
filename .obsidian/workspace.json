@@ -11,8 +11,12 @@
             "id": "f07f0b4b2beae8d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring frameworrk/Dependency injection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ccb813ec02a79af",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring frameworrk/Dependency injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring frameworrk/Dependency injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring frameworrk/Dependency injection.md"
+              }
             }
           }
         ]
@@ -140,6 +149,9 @@
   },
   "active": "f07f0b4b2beae8d4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Spring frameworrk/Dependency injection.md",
+    "Spring frameworrk",
     "New Text Document.txt",
     "go/Types structs slices maps.md",
     "dotnet/CSHARP 12 NEW FEATURES.md",
@@ -174,15 +186,12 @@
     "gof/1280px-Composite_UML_class_diagram_(fixed).svg.png",
     "gof/Pasted image 20240118211523.png",
     "gof",
-    "New folder",
     "computer science/GoF patterns.md",
     "Composite.md",
     "computer science/What is a NoSQL database.md",
     "Algorithm Tips.md",
     "ad.md",
     "computer science/CAP Theory.md",
-    "computer science/Linked list and merge..md",
-    "computer science",
-    "Photography 1.md"
+    "computer science/Linked list and merge..md"
   ]
 }
